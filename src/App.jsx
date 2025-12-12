@@ -1,3 +1,4 @@
+// Test sync OK
 import { /* ---------- Items Engine (paste into AgriFlowDesignerAppV2.jsx) ---------- */
 const sampleCatalog = [
   // PVC Pipes
